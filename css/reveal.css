@@ -28,6 +28,9 @@ body {
  * VIEW FRAGMENTS
  *********************************************/
 
+.line { display: block; }
+.line.focus { background: white; }
+
 .reveal .slides section .fragment {
   opacity: 0;
   visibility: hidden;
